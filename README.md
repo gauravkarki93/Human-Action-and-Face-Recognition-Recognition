@@ -39,7 +39,7 @@ Algorithm.
 
 ## Authors
 
-* **Gaurav Karki** - Santa Clara University
+* **Gaurav Karki** - 
 
 ## License
 
