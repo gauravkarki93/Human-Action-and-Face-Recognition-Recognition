@@ -21,7 +21,7 @@ frame and convert it into grayscale.
 order to remove the background surroundings from
 moving object.
 6. The resulting object is a motion history image which
-is similar to a silhouette5.
+is similar to a silhouette.
 7. Flatten the resulting Motion History Image for class j
 = [walk, jack, bend] and calculate the L1-Principal
 Components using Individual method1.
