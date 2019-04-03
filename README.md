@@ -37,9 +37,9 @@ Subspace Algorithm.
 walking with bag, ….]1x11 using Nearest Subspace
 Algorithm.
 
-## Authors
+## Author
 
-* **Gaurav Karki** - 
+* **Gaurav Karki** 
 
 ## License
 
