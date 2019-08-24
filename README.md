@@ -37,6 +37,10 @@ Subspace Algorithm.
 walking with bag, ….]1x11 using Nearest Subspace
 Algorithm.
 
+## Research Report:
+
+[Face Recognition and Human Action Recognition using L1-Principal Component Analysis](https://github.com/gauravkarki93/Human-Action-and-Face-Recognition-Recognition/blob/master/Human-ActionandFaceDetectionbyGauravKarki.pdf)
+
 ## Author
 
 * **Gaurav Karki** 
