@@ -1,6 +1,6 @@
 # Human Action and Face Recognition
 
-Face recognition using the L1-principal and then using similar approach for human action recognition. To calculate the L1-Principal Component for rank k, we used the individual method and matched the testing images to training images using Nearest Subspace Algorithm. L1-subspace works better than the L2-subspace under the effect of outliers. The experiments in this paper supports this and verifies as results in human action recognition where improved when we used individual method.
+Face recognition using the L1-principal and then using similar approach for human action recognition. To calculate the L1-Principal Component for rank k, i've used the individual method and matched the testing images to training images using Nearest Subspace Algorithm. L1-subspace works better than the L2-subspace under the effect of outliers. The experiments in this paper supports this and verifies as results in human action recognition where improved when we used individual method.
 
 ## Getting Started
 
